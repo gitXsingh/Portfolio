@@ -1,0 +1,41 @@
+Create a new Next.js project:
+
+bashCopynpx create-next-app@latest terminal-portfolio --typescript --tailwind --app
+
+Replace the generated files with the ones I provided above.
+Install additional dependencies:
+
+bashCopynpm install lucide-react
+
+Add your profile image:
+
+
+Place your profile photo as profile.jpg in the public folder
+
+
+Customize the content:
+
+
+Update the name and description in layout.tsx
+Modify the social links in page.tsx
+Update the projects array in page.tsx
+Add your own profile image
+Update the metadata and links
+
+
+Run the development server:
+
+bashCopynpm run dev
+The site includes:
+
+Full TypeScript support
+Next.js 14 with App Router
+Responsive design
+SEO-friendly metadata
+Image optimization
+Smooth transitions
+Interactive hover effects
+Social media links
+Project showcase
+
+Would you like me to modify anything or help with any specific part of the implementation?
